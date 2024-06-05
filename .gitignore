@@ -1,0 +1,9 @@
+xhello
+*~
+*.swp
+*.bak
+*.o
+# Eclipse
+.project
+.cproject
+.settings/
